@@ -69,6 +69,13 @@ To use this script across all your Google Docs, deploy it as a private add-on.
 
 ---
 
+### Logo downloaded from:
+
+https://fonts.google.com/icons?selected=Material+Symbols+Outlined:flowsheet:FILL@0;wght@400;GRAD@0;opsz@48&icon.query=link&icon.size=50&icon.color=%23000000&icon.platform=web
+
+---
+
+
 ### License
 
 This project is licensed under the MIT License.
